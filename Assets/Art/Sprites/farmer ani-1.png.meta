@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 6d382ba8fb0a1f4498c43844d9bdde2d
+timeCreated: 1530335580
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: farmer ani-1_0
+    21300002: farmer ani-1_1
+    21300004: farmer ani-1_2
+    21300006: farmer ani-1_3
+    21300008: farmer ani-1_4
+    21300010: farmer ani-1_5
+    21300012: farmer ani-1_6
+    21300014: farmer ani-1_7
+    21300016: farmer ani-1_8
+    21300018: farmer ani-1_9
+    21300020: farmer ani-1_10
+    21300022: farmer ani-1_11
+    21300024: farmer ani-1_12
+    21300026: farmer ani-1_13
+    21300028: farmer ani-1_14
+    21300030: farmer ani-1_15
+    21300032: farmer ani-1_16
+    21300034: farmer ani-1_17
+    21300036: farmer ani-1_18
+    21300038: farmer ani-1_19
+    21300040: farmer ani-1_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer ani-1_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1553
+        width: 410
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1553
+        width: 590
+        height: 1038
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_3
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1553
+        width: 583
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_4
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1553
+        width: 548
+        height: 1027
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_5
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 1553
+        width: 434
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_7
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 1553
+        width: 471
+        height: 1014
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_8
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 1553
+        width: 428
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_10
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 1553
+        width: 604
+        height: 1047
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 343
+        width: 556
+        height: 1016
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farmer ani-1_18
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 337
+        width: 706
+        height: 1017
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
